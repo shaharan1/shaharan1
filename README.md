@@ -1,9 +1,9 @@
 <p align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shaharan1/shaharan1/blob/main/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shaharan1/shaharan1/blob/main/snake.svg" />
-    <img alt="github-snake" src="https://github.com/shaharan1/shaharan1/blob/main/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
   </picture>
 
 </p>
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB+Full+Stack+Java+Developer;Open+to+collaboration;Learning+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB+Full+Stack+Jav...)]
 
 </p>
 
@@ -67,7 +67,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%"> <a href="https://github.com/shaharan1/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a>
+<td align="center" width="33%"> <a href="https://github.com/shaharan1/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="CREMS-Angular"/></a>
 </td>
 </tr>
 </table>
@@ -76,18 +76,19 @@
 ## 📈 My GitHub Performance
 
 <p align="center">
-  <div align="center">
+  <!-- Use raw image endpoints and separate each stat image into its own centered block to avoid nesting markdown headings inside HTML blocks -->
+</p>
 
-### **Github Status**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Shaharan's GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt=" Shahran's GitHub Stats"/>
-  
-  ### **Github Contribution**
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true" alt="Shaharan's GitHub Streak"/>
-    
-  ### **Most Used Languages**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact" alt="Shaharan's Top Languages"/>
-  </div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true" alt="Shaharan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact" alt="Shaharan's Top Languages" />
 </p>
 
 ## 🌐 Connect & Support
@@ -122,7 +123,7 @@
 
 ## Repository analysis & status
 
-I analyzed all public repositories in this account and added a short summary and "state" for each repository below. "State" is based on the last update date: Active = updated within 90 days, Maintained = updated within 90-365 days.
+I analyzed all public repositories in this account and added a short summary and "state" for each repository below. "State" is based on the last update date: Active = updated within 90 days, Main[...]
 
 - Android — Language: Java · Last update: ~20 days ago · Size: 22750 · Stars: 0 · State: Active
 - Angular — Language: HTML · Last update: ~34 days ago · Size: 49541 · Stars: 0 · State: Active
