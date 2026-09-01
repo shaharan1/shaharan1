@@ -1,11 +1,5 @@
 <p align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg" />
-  </picture>
-
+  ![github-snake](https://raw.githubusercontent.com/shaharan1/shaharan1/main/snake.svg)
 </p>
 
 <h1 align="center">Hi there! I'm Md. Shaharan Hossain </h1>
@@ -17,15 +11,9 @@
 </p>
 
 <p align="center">
-
-  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaharan1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
   <img src="https://img.shields.io/github/stars/shaharan1?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-
   <img src="https://img.shields.io/github/followers/shaharan1?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
-
 </p>
 
 ## 🧠 About Me
@@ -76,19 +64,16 @@
 ## 📈 My GitHub Performance
 
 <p align="center">
-  <!-- Use raw image endpoints and separate each stat image into its own centered block to avoid nesting markdown headings inside HTML blocks -->
+  <!-- Use Markdown image syntax inside a centered paragraph so GitHub renders SVGs correctly -->
+  ![Shaharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Shaharan's GitHub Stats" />
+  ![Shaharan's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true" alt="Shaharan's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact" alt="Shaharan's Top Languages" />
+  ![Shaharan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact)
 </p>
 
 ## 🌐 Connect & Support
