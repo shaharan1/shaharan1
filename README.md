@@ -9,7 +9,7 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+
 
 <p align="center">
   <picture>
@@ -32,7 +32,7 @@
 
 ### 🚀 Current Projects
 
-#### 🏢 CREMS — CREMS-Angular
+#### 🏢 Hospital Management System 
 A sample of my Angular work and front-end integrations.
 
 **Tech Stack:** `Angular` · `TypeScript` · `HTML/CSS`
@@ -49,7 +49,7 @@ Backend systems and APIs with Java & Spring Boot.
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
 **Backend**
@@ -61,13 +61,13 @@ Backend systems and APIs with Java & Spring Boot.
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
 **Database & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,postman" />
 </p>
 
 ---
@@ -112,8 +112,8 @@ Backend systems and APIs with Java & Spring Boot.
 
 ### 🎯 Currently Learning
 
-- ⚛️ React
-- 🐍 Advanced Python
+
+
 - 🏗️ Software Architecture
 - 🧠 System Design
 - 🔐 Application Security
