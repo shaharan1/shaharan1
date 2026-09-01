@@ -9,7 +9,7 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+
 
 <p align="center">
   <picture>
@@ -112,8 +112,8 @@ Backend systems and APIs with Java & Spring Boot.
 
 ### 🎯 Currently Learning
 
-- ⚛️ React
-- 🐍 Advanced Python
+
+
 - 🏗️ Software Architecture
 - 🧠 System Design
 - 🔐 Application Security
