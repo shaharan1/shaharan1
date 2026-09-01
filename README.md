@@ -85,7 +85,7 @@ Backend systems and APIs with Java & Spring Boot.
 
 ---
 
-<!-- Boxed streak card: uses an SVG wrapper stored in the repo that composes the external streak image on a rounded dark background -->
+<!-- Boxed streak card: self-contained SVG (mock) with orange accent and embedded visuals -->
 <div style="max-width:860px;margin:6px auto 18px auto;">
   <p align="left" style="margin:6px 0 8px 0;">
     🔥 <strong>Contribution Streak</strong>
@@ -97,7 +97,7 @@ Backend systems and APIs with Java & Spring Boot.
     </a>
   </p>
 
-  <p style="text-align:center;margin-top:8px;color:#9AA7C7;font-size:12px;">Accent color: <span style="color:#7c3aed;font-weight:600;">purple</span> → <span style="color:#06b6d4;font-weight:600;">cyan</span> · Card padding & spacing tuned for visibility</p>
+  <p style="text-align:center;margin-top:8px;color:#9AA7C7;font-size:12px;">Accent color: <span style="color:#ff7a00;font-weight:600;">orange</span> → <span style="color:#ffd166;font-weight:600;">yellow</span> · Self-contained (mock) streak card</p>
 </div>
 
 ---

@@ -1,26 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
   <defs>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c3aed" />
-      <stop offset="100%" stop-color="#06b6d4" />
+      <stop offset="0%" stop-color="#ff7a00" />
+      <stop offset="100%" stop-color="#ffd166" />
     </linearGradient>
     <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
-  <!-- Rounded dark card background with subtle gradient stroke -->
-  <rect x="20" y="18" rx="16" ry="16" width="860" height="190" fill="#0c1220" stroke="url(#accent)" stroke-width="2" opacity="0.98" filter="url(#shadow)" />
+  <!-- Rounded dark card background with orange accent stroke -->
+  <rect x="20" y="18" rx="16" ry="16" width="860" height="190" fill="#0b1220" stroke="url(#accent)" stroke-width="2" opacity="0.98" filter="url(#shadow)" />
 
-  <!-- Inner padding area (visual only) -->
-  <rect x="36" y="36" rx="10" ry="10" width="824" height="154" fill="transparent" stroke-opacity="0" />
+  <!-- Decorative inner panel (mock of streak content) -->
+  <rect x="48" y="44" rx="8" ry="8" width="804" height="132" fill="#0f1724" />
 
-  <!-- Embed streak widget image inside the card with padding. Using a slightly smaller area to create inner margins -->
-  <image href="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=dark&hide_border=true" x="48" y="46" width="800" height="134" preserveAspectRatio="xMidYMid meet" />
+  <!-- Left column: total contributions -->
+  <g transform="translate(88,66)" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="28" fill="#ff9a3c" font-weight="700">567</text>
+    <text x="0" y="28" font-size="12" fill="#9AA7C7">Total Contributions</text>
+    <text x="0" y="48" font-size="11" fill="#3DB5A3">Nov 11, 2025 - Present</text>
+  </g>
+
+  <!-- Middle: streak circle -->
+  <g transform="translate(360,36)">
+    <!-- Circle background -->
+    <circle cx="90" cy="62" r="36" fill="#091426" stroke="url(#accent)" stroke-width="3" />
+    <!-- Streak number -->
+    <text x="90" y="68" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#ffb366" font-weight="700" text-anchor="middle">4</text>
+    <text x="90" y="94" font-family="Segoe UI, Roboto, Arial" font-size="11" fill="#9AA7C7" text-anchor="middle">Current Streak</text>
+    <text x="90" y="110" font-family="Segoe UI, Roboto, Arial" font-size="11" fill="#3DB5A3" text-anchor="middle">Aug 29 - Sep 1</text>
+  </g>
+
+  <!-- Right column: longest streak -->
+  <g transform="translate(600,66)" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="28" fill="#ff9a3c" font-weight="700">16</text>
+    <text x="0" y="28" font-size="12" fill="#9AA7C7">Longest Streak</text>
+    <text x="0" y="48" font-size="11" fill="#3DB5A3">Jul 1 - Jul 16</text>
+  </g>
 
   <!-- Accent divider line -->
   <rect x="60" y="184" width="780" height="1" fill="url(#accent)" opacity="0.6" />
 
-  <!-- Optional small caption -->
-  <text x="36" y="211" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif" font-size="12" fill="#9AA7C7">Live streak card • Theme: dark • Styled accent: purple → cyan</text>
+  <!-- Caption -->
+  <text x="36" y="213" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif" font-size="12" fill="#9AA7C7">Self-contained streak card • Accent: orange → yellow • Mocked data (visual-only)</text>
 </svg>
