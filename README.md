@@ -63,17 +63,22 @@
 
 ## 📈 My GitHub Performance
 
-<p align="center">
-  <!-- Use Markdown image syntax inside a centered paragraph so GitHub renders SVGs correctly -->
-  ![Shaharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<!-- Emphasize Contribution Streak card: left-aligned small heading and centered large streak image -->
+<p align="left" style="margin-top:8px;">
+  🔥 <strong>Contribution Streak</strong>
 </p>
 
 <p align="center">
-  ![Shaharan's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=dark&hide_border=true" alt="Contribution Streak" />
+</p>
+
+<!-- Main stats and top languages below -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Shaharan's GitHub Stats" />
 </p>
 
 <p align="center">
-  ![Shaharan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact" alt="Shaharan's Top Languages" />
 </p>
 
 ## 🌐 Connect & Support
