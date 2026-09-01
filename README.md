@@ -1,5 +1,3 @@
-
-
 <p align="center">
 
   <picture>
@@ -14,7 +12,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Java+Developer;🌱+Spring+Boot+%7C+Node.js;⚡+%7C+Angular+%7C+Flutter;🚀+Always+Learning+New+Technologies;✨+Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB+Full+Stack+Java+Developer;Open+to+collaboration;Learning+Spring+Boot)](https://git.io/typing-svg)
 
 </p>
 
@@ -32,7 +30,7 @@
 
 ## 🧠 About Me
 
-- 💻 I build full-stack applications using **Java, Spring Boot, Node Js, Angular
+- 💻 I build full-stack applications using **Java, Spring Boot, Node Js, Angular**
 - 🚀 Always exploring better ways to write clean, scalable, and secure code
 - 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
 - 🤝 Open to collaboration on meaningful and challenging projects
@@ -69,7 +67,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%"> <a href="https://github.com/shaharan1/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/shaharan1/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://shaharan1.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub>
+<td align="center" width="33%"> <a href="https://github.com/shaharan1/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a>
 </td>
 </tr>
 </table>
@@ -85,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt=" Shahran's GitHub Stats"/>
   
   ### **Github Contribution**
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true" alt="Shaharan's GitHub Streak"/> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=radical&hide_border=true" alt="Shaharan's GitHub Streak"/>
     
   ### **Most Used Languages**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&theme=radical&hide_border=true&layout=compact" alt="Shaharan's Top Languages"/>
@@ -119,3 +117,37 @@
     <img src="https://img.shields.io/badge/Support%20My%20Work-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee Badge"/>
   </a>
 </p>
+
+---
+
+## Repository analysis & status
+
+I analyzed all public repositories in this account and added a short summary and "state" for each repository below. "State" is based on the last update date: Active = updated within 90 days, Maintained = updated within 90-365 days.
+
+- Android — Language: Java · Last update: ~20 days ago · Size: 22750 · Stars: 0 · State: Active
+- Angular — Language: HTML · Last update: ~34 days ago · Size: 49541 · Stars: 0 · State: Active
+- Angular-Project- — Language: TypeScript · Last update: 08 June 2026 · Size: 7962 · Stars: 0 · State: Active
+- CF — Language: (none detected) · Last update: 22 November 2025 · Size: 115 · Stars: 0 · State: Maintained
+- Final-Project — Language: Java · Last update: ~2 days ago · Size: 92397 · Stars: 0 · State: Active
+- Flutter — Language: C++ · Last update: ~13 days ago · Size: 362 · Stars: 0 · State: Active
+- HTML — Language: HTML · Last update: 07 January 2026 · Size: 10062 · Stars: 0 · State: Maintained
+- HTML2 — Language: HTML · Last update: 29 November 2025 · Size: 2 · Stars: 0 · State: Maintained
+- java — Language: Java · Last update: 04 May 2026 · Size: 15972 · Stars: 1 · State: Maintained
+- MySQL — Language: (none detected) · Last update: 09 March 2026 · Size: 1 · Stars: 0 · State: Maintained
+- Project — Language: HTML · Last update: 05 January 2026 · Size: 7744 · Stars: 0 · State: Maintained
+- shaharan1 — Language: (this repo) · Last update: just now · Size: 7 · Stars: 0 · State: Active
+- Spring — Language: Java · Last update: ~34 days ago · Size: 2180 · Stars: 0 · State: Active
+- SQL — Language: PLSQL · Last update: 02 February 2026 · Size: 21 · Stars: 0 · State: Maintained
+- UML — Language: HTML · Last update: 26 April 2026 · Size: 64 · Stars: 0 · State: Maintained
+
+Notes & suggestions
+
+- Consider adding a short README to small/empty repos (MySQL, HTML2) explaining purpose or archiving them if they are no longer needed.
+- For larger projects (Final-Project, Angular, Android) add a one-line description and a README usage section so visitors can quickly run the project.
+- Add topics (repo tags) to highlight technologies (e.g., spring-boot, angular, java) — this helps discoverability.
+
+If you'd like, I can:
+
+- Add per-repo badges and short README stubs to the smaller repos to explain their purpose.
+- Create an index file (REPOSITORIES.md) with links and more detailed metadata (clone URL, license, readme excerpt).
+
