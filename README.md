@@ -34,10 +34,10 @@
 
 <div align="left" style="max-width:840px;margin:0 auto 18px auto;">
 
-#### 🏢 CREMS — CREMS-Angular
-A sample of my Angular work and front-end integrations.
+#### 🏢 Hospital Management System using Flutter
+A sample of my Flutter work and front-end integrations.
 
-**Tech Stack:** `Angular` · `TypeScript` · `HTML/CSS`
+**Tech Stack:** `Flutter` · `Spring Boot`
 
 #### ✅ Final-Project
 Backend systems and APIs with Java & Spring Boot.
