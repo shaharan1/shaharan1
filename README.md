@@ -72,22 +72,32 @@ Backend systems and APIs with Java & Spring Boot.
 
 ---
 
-### 📊 GitHub Stats (Tokyonight theme)
+### 📊 GitHub Stats (select theme below)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shaharan's GitHub Stats" />
+  <!-- Wrapped with a link to the provider - click to open stats provider -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaharan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shaharan's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&layout=compact&theme=tokyonight&hide_border=true" alt="Shaharan's Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharan1&layout=compact&theme=tokyonight&hide_border=true" alt="Shaharan's Top Languages" />
+  </a>
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+<!-- Boxed streak card: uses an SVG wrapper stored in the repo that composes the external streak image on a rounded dark background -->
+<p align="left" style="margin-top:8px;">
+  🔥 <strong>Contribution Streak</strong>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharan1&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <a href="https://nirzak-streak-stats.vercel.app/?user=shaharan1&theme=dark&hide_border=true">
+    <img src="https://raw.githubusercontent.com/shaharan1/shaharan1/main/assets/boxed-streak.svg" alt="Contribution Streak Card" />
+  </a>
 </p>
 
 ---
