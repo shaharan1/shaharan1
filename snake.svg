@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes snake {
+        0% { transform: translateX(-1200px); }
+        100% { transform: translateX(1200px); }
+      }
+      .snake-line {
+        animation: snake 3s linear infinite;
+        stroke: #36BCF7;
+        stroke-width: 3;
+        fill: none;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <path class="snake-line" d="M 0 50 Q 150 10 300 50 T 600 50 T 900 50 T 1200 50" />
+</svg>
