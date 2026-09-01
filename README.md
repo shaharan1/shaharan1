@@ -51,7 +51,7 @@ Backend systems and APIs with Java & Spring Boot.
 ### 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
 <p align="left">
@@ -59,11 +59,11 @@ Backend systems and APIs with Java & Spring Boot.
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,postman" />
 </p>
 
 ---
