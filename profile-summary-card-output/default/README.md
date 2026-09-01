@@ -1,0 +1,6 @@
+# Default (light) theme
+
+```
+[![](https://raw.githubusercontent.com/shaharan1/shaharan1/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://raw.githubusercontent.com/shaharan1/shaharan1/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/anuraghazra/github-readme-stats)
+```
